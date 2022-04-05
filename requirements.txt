@@ -1,0 +1,11 @@
+# aws_utils_airflow_plugin
+dash==2.3.0
+dash-bootstrap-components==1.0.3
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-react-json-schema-form==0.1.10
+dash-table==5.0.0
+# If I don't pin these versions they get updated
+# apache-airflow>=2.2.2
+# attrs<21.0,>=20.0
+# redis~=3.2
